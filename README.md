@@ -35,3 +35,10 @@ The default secondary parameters are what are functional for me, they can be adj
 | `pcb_long_holes_edge_distance` | The distance of the PCB mounting hole (center) from the PCB edge along the PCB's long axis. Measurement taken from my 40mm x 60mm sample piece. |
 | `pcb_short_holes_edge_distance` | The distance of the PCB mounting hole (center) from the PCB edge along the PCB's long axis. Measurement taken from my 40mm x 60mm sample piece. |
 
+## Pictures
+
+![Box with Lid, Partially Transparent](PCB_Enclosure_All_Tr.png)
+
+![Box](PCB_Enclosure_Bottom.png)
+
+![Lid](PCB_Enclosure_Lid.png)
